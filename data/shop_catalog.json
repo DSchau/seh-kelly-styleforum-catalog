@@ -1,0 +1,1793 @@
+{
+  "app": "S.E.H Kelly recreated catalog - shop batch",
+  "source_url": "https://www.sehkelly.com/products.json",
+  "pages": [
+    {
+      "title": "Shop",
+      "items": [
+        {
+          "title": "Peacoat in heavy wool melton in midnight",
+          "handle": "peacoat-in-heavy-wool-melton-in-midnight",
+          "product_type": "Coat",
+          "published_at": "2026-10-20T09:47:19+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/peacoat_1.jpg?v=1792485116",
+              "alt": "Peacoat in heavy wool melton in midnight",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Scarf in cashmere-cotton in north sea",
+          "handle": "scarf-in-cashmere-cotton-in-north-sea",
+          "product_type": "Scarf",
+          "published_at": "2026-10-19T12:00:10+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/scarf-northsea_1.jpg?v=1792360197",
+              "alt": "Scarf in cashmere-cotton in north sea",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Scarf in cashmere-cotton in chestnut",
+          "handle": "scarf-in-cashmere-cotton-in-chestnut",
+          "product_type": "Scarf",
+          "published_at": "2026-10-19T12:00:09+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/scarf-chestnut_1.jpg?v=1792360012",
+              "alt": "Scarf in cashmere-cotton in chestnut",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Scarf in cashmere-cotton in boreal",
+          "handle": "scarf-in-cashmere-cotton-in-boreal",
+          "product_type": "Scarf",
+          "published_at": "2026-10-19T12:00:08+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/scarf-boreal_1.jpg?v=1792359652",
+              "alt": "Scarf in cashmere-cotton in boreal",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Polo shirt in three-ply geelong lambswool in tin",
+          "handle": "polo-shirt-in-three-ply-geelong-lambswool-in-loden-copy",
+          "product_type": "Shirt",
+          "published_at": "2026-10-19T12:00:07+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/long-sleeve-polo-tin_1.jpg?v=1792359504",
+              "alt": "Polo shirt in three-ply geelong lambswool in tin",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Polo shirt in three-ply geelong lambswool in loden",
+          "handle": "polo-shirt-in-three-ply-geelong-lambswool-in-loden",
+          "product_type": "Shirt",
+          "published_at": "2026-10-19T12:00:06+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/long-sleeve-polo-loden.jpg?v=1792359032",
+              "alt": "Polo shirt in three-ply geelong lambswool in loden",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Shirt in moleskin in deep marine",
+          "handle": "shirt-in-moleskin-in-chalk-copy",
+          "product_type": "Shirt",
+          "published_at": "2026-10-19T12:00:05+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_shirt-standard-collar-moleskin-cotton-deep-marine-1_2x_36d7a843-9bcb-412a-80d2-ffeb5ddfdf81.jpg?v=1792359574",
+              "alt": "Shirt in moleskin in deep marine",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Shirt in moleskin in chalk",
+          "handle": "shirt-in-moleskin-in-chalk",
+          "product_type": "Shirt",
+          "published_at": "2026-10-19T12:00:03+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_shirt-standard-collar-moleskin-cotton-chalk-1_2x_361c797c-e4e9-4f52-b8fc-0d44e9ac76e2.jpg?v=1792359593",
+              "alt": "Shirt in moleskin in chalk",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "SB jacket in linen hopsack in hadal blue",
+          "handle": "sb-jacket-in-linen-hopsack-in-hadal-blue",
+          "product_type": "Jacket",
+          "published_at": "2026-07-23T12:02:22+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_sb-jacket-linen-dark-hadal-blue-1_2x_0e32b15c-39b6-4ddf-8a59-e2bf30dbaa91.jpg?v=1784754142",
+              "alt": "SB jacket in linen hopsack in hadal blue",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Field trousers in linen hopsack in natural",
+          "handle": "field-trousers-in-linen-hopsack-in-natural",
+          "product_type": "Trousers",
+          "published_at": "2026-07-23T12:00:08+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_field-trousers-linen-hopsack-natural-1_2x_cf7adbe6-1030-4c56-a7ad-f03bd4b264e3.jpg?v=1784755961",
+              "alt": "Field trousers in linen hopsack in natural",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Field trousers in linen hopsack in hadal blue",
+          "handle": "field-trousers-in-linen-hopsack-in-hadal-blue",
+          "product_type": "Trousers",
+          "published_at": "2026-07-23T12:00:06+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_field-trousers-linen-hadal-blue-1_2x_93ba0761-7084-4017-82a0-3ef80b00bcd4.jpg?v=1784755325",
+              "alt": "Field trousers in linen hopsack in hadal blue",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "SB jacket in linen hopsack in natural",
+          "handle": "sb-jacket-in-linen-hopsack-in-natural",
+          "product_type": "Jacket",
+          "published_at": "2026-07-23T12:00:03+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_sb-jacket-linen-natural-hopsack-1_2x_83941834-6f0e-4912-a976-8e0bea96a77e.jpg?v=1784754995",
+              "alt": "SB jacket in linen hopsack in natural",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Work jacket in linen burlap in linseed",
+          "handle": "work-jacket-in-linen-burlap-in-linseed",
+          "product_type": "Jacket",
+          "published_at": "2026-06-15T12:00:04+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/workjacketburlaplinseed9.jpg?v=1781448325",
+              "alt": "Work jacket in linen burlap in linseed",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Work jacket in linen burlap in ash",
+          "handle": "work-jacket-in-linen-burlap-in-ash",
+          "product_type": "Jacket",
+          "published_at": "2026-06-15T12:00:02+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/workjacketburlapash.jpg?v=1781448090",
+              "alt": "Work jacket in linen burlap in ash",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Duster in hadal blue",
+          "handle": "duster-in-hadal-blue",
+          "product_type": "Coat",
+          "published_at": "2026-05-26T13:09:36+01:00",
+          "images": [],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Field trousers in dark navy",
+          "handle": "field-trousers-in-dark-navy",
+          "product_type": "Trousers",
+          "published_at": "2026-05-18T20:50:46+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_field-trousers-cotton-panama-dark-navy-1_2x_7080a3b3-505f-474c-b949-80346dc9c347.jpg?v=1779132811",
+              "alt": "Field trousers in dark navy",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "T-shirt in ring-spun cotton in porridge",
+          "handle": "ring-spun-cotton-t-shirt-in-porridge",
+          "product_type": "T-Shirt",
+          "published_at": "2026-05-18T12:08:21+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/knitted-tshirt-beige_1.jpg?v=1779095281",
+              "alt": "T-shirt in ring-spun cotton in porridge",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "T-shirt in ring-spun cotton in slate",
+          "handle": "ring-spun-cotton-t-shirt-in-slate",
+          "product_type": "T-Shirt",
+          "published_at": "2026-05-18T12:08:13+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/knitted-tshirt_1.jpg?v=1779095402",
+              "alt": "T-shirt in ring-spun cotton in slate",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Pyjama top in linen hopsack in hadal",
+          "handle": "linen-hopsack-pyjama-top-in-hadal",
+          "product_type": "Pyjama top",
+          "published_at": "2026-05-18T12:08:03+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_navy_1.jpg?v=1779094649",
+              "alt": "Pyjama top in linen hopsack in hadal",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Pyjama top in linen hopsack in malt",
+          "handle": "linen-hopsack-pyjama-top-in-malt",
+          "product_type": "Pyjama top",
+          "published_at": "2026-05-18T12:07:54+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_beige_1.jpg?v=1779094942",
+              "alt": "Pyjama top in linen hopsack in malt",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Popover in linen poplin in starling",
+          "handle": "linen-poplin-popover-in-starling",
+          "product_type": "Shirt",
+          "published_at": "2026-05-18T12:07:43+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-popover-shirt_1.jpg?v=1779094401",
+              "alt": "Popover in linen poplin in starling",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Popover in linen poplin in manila",
+          "handle": "linen-poplin-popover-in-manila",
+          "product_type": "Shirt",
+          "published_at": "2026-05-18T12:07:33+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_popover-linen-poplin-manila-1_2x_b57f0b29-d680-4c7e-9e8f-886b10b35a74.jpg?v=1779133574",
+              "alt": "Popover in linen poplin in manila",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Anorak in manila",
+          "handle": "anorak-in-manila",
+          "product_type": "Raincoat",
+          "published_at": "2026-05-02T10:14:56+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_anorak-weatherproof-cotton-tan-1_2x_f62d1b18-d85e-4f32-9036-9935a97927db.jpg?v=1777713407",
+              "alt": "Anorak in manila",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Anorak in hadal blue",
+          "handle": "anorak-in-hadal-blue",
+          "product_type": "Raincoat",
+          "published_at": "2026-05-02T10:05:06+01:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_anorak-weatherproof-cotton-dark-blue-1_2x_3f610601-6f25-4e8e-97ea-74d0a0c99170.jpg?v=1777712752",
+              "alt": "Anorak in hadal blue",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Granddad shirt in dove",
+          "handle": "granddad-shirt-in-dove",
+          "product_type": "Shirt",
+          "published_at": "2026-03-23T15:16:48+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/cashmere-granddad-collar-shirt_1.jpg?v=1774278990",
+              "alt": "Granddad shirt in dove",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Silk linen shirt in barley",
+          "handle": "silk-linen-shirt-in-barley",
+          "product_type": "Shirt",
+          "published_at": "2026-03-23T12:00:03+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-standard-collar-shirt_biscuit_1.jpg?v=1774265612",
+              "alt": "Silk linen shirt in barley",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Silk linen shirt in chalk",
+          "handle": "silk-linen-shirt-in-chalk",
+          "product_type": "Shirt",
+          "published_at": "2026-03-23T12:00:01+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-standard-collar-shirt_chalk_1.jpg?v=1774265124",
+              "alt": "Silk linen shirt in chalk",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Linen shirt in midnight",
+          "handle": "linen-shirt-in-midnight",
+          "product_type": "Shirt",
+          "published_at": "2026-03-09T12:03:57+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-spread-collar-shirt_dark-navy_1_025aa6eb-cc6c-4dbc-9a50-f58c9f01b453.jpg?v=1773058698",
+              "alt": "Linen shirt in midnight",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Linen shirt in tan",
+          "handle": "linen-shirt-in-tan",
+          "product_type": "Shirt",
+          "published_at": "2026-03-09T12:03:55+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-spread-collar-shirt_tan_1_6eb84482-257d-4209-84c7-b9a32b105e06.jpg?v=1773005757",
+              "alt": "Linen shirt in tan",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Raincoat in sand",
+          "handle": "raincoat-in-sand",
+          "product_type": "Raincoat",
+          "published_at": "2026-03-09T12:03:54+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/raincoat_sand_1.jpg?v=1773005371",
+              "alt": "Raincoat in sand",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Raincoat in cosmos",
+          "handle": "raincoat-in-cosmos",
+          "product_type": "Raincoat",
+          "published_at": "2026-03-09T12:03:53+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/raincoat_navy_1.jpg?v=1773005150",
+              "alt": "Raincoat in cosmos",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Pyjama top in brambling",
+          "handle": "pyjama-top-in-brambling",
+          "product_type": "Pyjama top",
+          "published_at": "2026-03-09T12:03:52+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_brown_1.jpg?v=1773004653",
+              "alt": "Pyjama top in brambling",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Pyjama top in heron",
+          "handle": "pyjama-top-in-heron",
+          "product_type": "Pyjama top",
+          "published_at": "2026-03-09T12:03:50+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_grey_1.jpg?v=1772999556",
+              "alt": "Pyjama top in heron",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Polo coat in dark navy",
+          "handle": "dark-navy-polo-coat",
+          "product_type": "Coat",
+          "published_at": "2025-12-26T12:07:32+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyDarkNavypolocoat1.jpg?v=1763330025",
+              "alt": "Polo coat in dark navy",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Trench Coat in cosmos",
+          "handle": "cosmos-trench-coat",
+          "product_type": "Coat",
+          "published_at": "2025-12-12T12:56:43+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/trench-coat-weatherproof-ripstop-cosmos-1_2x_821b03f0-9d83-4717-bc04-eae05b0141e4.jpg?v=1753825084",
+              "alt": "Trench Coat in cosmos",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Trench Coat in sand",
+          "handle": "sand-trench-coat",
+          "product_type": "Coat",
+          "published_at": "2025-12-12T12:55:48+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/trench-coat-weatherproof-ripstop-sand-1_2x_a2775709-c04c-4e67-9749-789c6db941a7.jpg?v=1754742671",
+              "alt": "Trench Coat in sand",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Crewneck jumper in charcoal",
+          "handle": "crewneck-jumper-in-charcoal",
+          "product_type": "Jumper",
+          "published_at": "2025-12-08T12:00:08+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_crewneck_charcoal_7_4d2e83bc-6161-4814-9c2f-751a91b7bb32.jpg?v=1765058735",
+              "alt": "Crewneck jumper in charcoal",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Crewneck jumper in throstle",
+          "handle": "crewneck-jumper-in-throstle",
+          "product_type": "Jumper",
+          "published_at": "2025-12-08T12:00:07+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_crewneck_throstle_1.jpg?v=1765058132",
+              "alt": "Crewneck jumper in throstle",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Watch cap in bister",
+          "handle": "watch-cap-in-bister",
+          "product_type": "Hat",
+          "published_at": "2025-12-08T12:00:06+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_watch_cap_donegal_brown_1.jpg?v=1765061505",
+              "alt": "Watch cap in bister",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Shawl cardigan in hadal",
+          "handle": "shawl-cardigan-in-hadal",
+          "product_type": "Cardigan",
+          "published_at": "2025-12-08T12:00:06+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_shawl_cardigan_cosmos_1.jpg?v=1765059760",
+              "alt": "Shawl cardigan in hadal",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Shawl cardigan in pebble",
+          "handle": "shawl-cardigan-in-pebble",
+          "product_type": "Cardigan",
+          "published_at": "2025-12-08T12:00:05+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_shawl_cardigan_pebble_1.jpg?v=1765059109",
+              "alt": "Shawl cardigan in pebble",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Watch cap in creag",
+          "handle": "watch-cap-in-creag",
+          "product_type": "Hat",
+          "published_at": "2025-12-08T12:00:04+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_watch_cap_donegal_grey_1.jpg?v=1765060962",
+              "alt": "Watch cap in creag",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Balmacaan in chough",
+          "handle": "chough-balmacaan",
+          "product_type": "Coat",
+          "published_at": "2025-12-05T11:16:13+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyBalmacaanChoughAW251.jpg?v=1763334998",
+              "alt": "Balmacaan in chough",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Dress trousers in black",
+          "handle": "dress-trousers-in-black",
+          "product_type": "Trousers",
+          "published_at": "2025-12-01T12:00:07+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinblack1_43bdd243-8b82-47a7-b6b7-4de50231b50b.jpg?v=1764592472",
+              "alt": "Dress trousers in black",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Peacoat in camel",
+          "handle": "peacoat-in-camel",
+          "product_type": "Coat",
+          "published_at": "2025-12-01T12:00:07+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_peacoat_in_camel_1.jpg?v=1764592604",
+              "alt": "Peacoat in camel",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Duffle coat in camel",
+          "handle": "duffle-coat-in-camel",
+          "product_type": "Coat",
+          "published_at": "2025-12-01T12:00:06+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydufflecoatincamel1.jpg?v=1764198910",
+              "alt": "Duffle coat in camel",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Dress trousers in lead grey",
+          "handle": "dress-trousers-in-lead-grey",
+          "product_type": "Trousers",
+          "published_at": "2025-12-01T12:00:06+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinleadgrey1.jpg?v=1764592566",
+              "alt": "Dress trousers in lead grey",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Dress trousers in middling sheep",
+          "handle": "dress-trousers-in-middling-sheep",
+          "product_type": "Trousers",
+          "published_at": "2025-12-01T12:00:06+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinmiddlingsheep1.jpg?v=1764592551",
+              "alt": "Dress trousers in middling sheep",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Dress trousers in buckwheat",
+          "handle": "dress-trousers-in-black-copy",
+          "product_type": "Trousers",
+          "published_at": "2025-12-01T12:00:06+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_dress_trousers_in_buckwheat_1.jpg?v=1765549755",
+              "alt": "Dress trousers in buckwheat",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "SB jacket in middling sheep",
+          "handle": "sb-jacket-in-middling-sheep",
+          "product_type": "Jacket",
+          "published_at": "2025-12-01T12:00:05+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_SB_Jacket_in_Middling_1.jpg?v=1764592713",
+              "alt": "SB jacket in middling sheep",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "SB jacket in lead grey",
+          "handle": "sb-jacket-in-lead-grey",
+          "product_type": "Jacket",
+          "published_at": "2025-12-01T12:00:05+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellySBjacketinleadgrey1.jpg?v=1764592717",
+              "alt": "SB jacket in lead grey",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Shirt in cotton needlecord in russet",
+          "handle": "shirt-in-cotton-needlecord-in-russet",
+          "product_type": "Shirt",
+          "published_at": "2025-12-01T12:00:05+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyshirtneedlecordinrusset1.jpg?v=1764276652",
+              "alt": "Shirt in cotton needlecord in russet",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Trucker jacket in rust",
+          "handle": "trucker-jacket-in-rust",
+          "product_type": "Jacket",
+          "published_at": "2025-12-01T12:00:05+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellytruckejacketinrust1.jpg?v=1764201860",
+              "alt": "Trucker jacket in rust",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Waistcoat in middling sheep",
+          "handle": "waistcoat-in-middling-sheep",
+          "product_type": "Jacket",
+          "published_at": "2025-12-01T12:00:04+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_waistcoat_midding_sheep_1.jpg?v=1764530983",
+              "alt": "Waistcoat in middling sheep",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Engineer jacket in black",
+          "handle": "engineer-jacket-in-black",
+          "product_type": "Jacket",
+          "published_at": "2025-12-01T12:00:04+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_Engineer_jacket_in_black_1.jpg?v=1764519637",
+              "alt": "Engineer jacket in black",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Harrington jacket in manila",
+          "handle": "harrington-jacket-in-manila",
+          "product_type": "Jacket",
+          "published_at": "2025-12-01T12:00:04+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_Harrington_Jacket_in_Manila_1.jpg?v=1764284378",
+              "alt": "Harrington jacket in manila",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Waistcoat in light sheep",
+          "handle": "waistcoat-in-light-sheep",
+          "product_type": "Jacket",
+          "published_at": "2025-12-01T12:00:03+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_waistcoat_in_light_sheep_1.jpg?v=1764592645",
+              "alt": "Waistcoat in light sheep",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Ulster in middling grey",
+          "handle": "ulster-in-middling-grey",
+          "product_type": "Coat",
+          "published_at": "2025-11-28T23:30:52+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyUlsterinmiddlinggrey1.jpg?v=1764278459",
+              "alt": "Ulster in middling grey",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Ulster in dunnock",
+          "handle": "ulster-in-dunnock",
+          "product_type": "Coat",
+          "published_at": "2025-11-24T12:18:41+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyUlsterinDunnock1.jpg?v=1763833646",
+              "alt": "Ulster in dunnock",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "S.E.H Kelly E-Gift Card",
+          "handle": "gift-card",
+          "product_type": "Gift card",
+          "published_at": "2025-11-12T22:49:28+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/S.E.H_Kelly_Gift_card.png?v=1762989335",
+              "alt": "S.E.H Kelly E-Gift Card",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Peacoat in khaki",
+          "handle": "khaki-peacoat",
+          "product_type": "Coat",
+          "published_at": "2025-11-12T22:39:57+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyPeacoatKhakiAW251.jpg?v=1763334616",
+              "alt": "Peacoat in khaki",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "British Warm in charcoal",
+          "handle": "charcoal-british-warm",
+          "product_type": "Coat",
+          "published_at": "2025-11-12T22:16:44+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyBritishwarmcharcoalAW251.jpg?v=1763332855",
+              "alt": "British Warm in charcoal",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Work Jacket in acorn",
+          "handle": "acorn-work-jacket",
+          "product_type": "Jacket",
+          "published_at": "2025-11-12T20:38:05+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyWorkJacketAcorn1.jpg?v=1781449153",
+              "alt": "Work Jacket in acorn",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        },
+        {
+          "title": "Work Jacket in conker",
+          "handle": "conker-work-jacket",
+          "product_type": "Jacket",
+          "published_at": "2025-11-12T20:34:23+00:00",
+          "images": [
+            {
+              "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_Work_Jacket_Conker_1.jpg?v=1781449172",
+              "alt": "Work Jacket in conker",
+              "caption": ""
+            }
+          ],
+          "source": "sehkelly.com/products.json"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Peacoat in heavy wool melton in midnight",
+      "handle": "peacoat-in-heavy-wool-melton-in-midnight",
+      "product_type": "Coat",
+      "published_at": "2026-10-20T09:47:19+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/peacoat_1.jpg?v=1792485116",
+          "alt": "Peacoat in heavy wool melton in midnight",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Scarf in cashmere-cotton in north sea",
+      "handle": "scarf-in-cashmere-cotton-in-north-sea",
+      "product_type": "Scarf",
+      "published_at": "2026-10-19T12:00:10+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/scarf-northsea_1.jpg?v=1792360197",
+          "alt": "Scarf in cashmere-cotton in north sea",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Scarf in cashmere-cotton in chestnut",
+      "handle": "scarf-in-cashmere-cotton-in-chestnut",
+      "product_type": "Scarf",
+      "published_at": "2026-10-19T12:00:09+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/scarf-chestnut_1.jpg?v=1792360012",
+          "alt": "Scarf in cashmere-cotton in chestnut",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Scarf in cashmere-cotton in boreal",
+      "handle": "scarf-in-cashmere-cotton-in-boreal",
+      "product_type": "Scarf",
+      "published_at": "2026-10-19T12:00:08+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/scarf-boreal_1.jpg?v=1792359652",
+          "alt": "Scarf in cashmere-cotton in boreal",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Polo shirt in three-ply geelong lambswool in tin",
+      "handle": "polo-shirt-in-three-ply-geelong-lambswool-in-loden-copy",
+      "product_type": "Shirt",
+      "published_at": "2026-10-19T12:00:07+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/long-sleeve-polo-tin_1.jpg?v=1792359504",
+          "alt": "Polo shirt in three-ply geelong lambswool in tin",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Polo shirt in three-ply geelong lambswool in loden",
+      "handle": "polo-shirt-in-three-ply-geelong-lambswool-in-loden",
+      "product_type": "Shirt",
+      "published_at": "2026-10-19T12:00:06+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/long-sleeve-polo-loden.jpg?v=1792359032",
+          "alt": "Polo shirt in three-ply geelong lambswool in loden",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Shirt in moleskin in deep marine",
+      "handle": "shirt-in-moleskin-in-chalk-copy",
+      "product_type": "Shirt",
+      "published_at": "2026-10-19T12:00:05+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_shirt-standard-collar-moleskin-cotton-deep-marine-1_2x_36d7a843-9bcb-412a-80d2-ffeb5ddfdf81.jpg?v=1792359574",
+          "alt": "Shirt in moleskin in deep marine",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Shirt in moleskin in chalk",
+      "handle": "shirt-in-moleskin-in-chalk",
+      "product_type": "Shirt",
+      "published_at": "2026-10-19T12:00:03+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_shirt-standard-collar-moleskin-cotton-chalk-1_2x_361c797c-e4e9-4f52-b8fc-0d44e9ac76e2.jpg?v=1792359593",
+          "alt": "Shirt in moleskin in chalk",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "SB jacket in linen hopsack in hadal blue",
+      "handle": "sb-jacket-in-linen-hopsack-in-hadal-blue",
+      "product_type": "Jacket",
+      "published_at": "2026-07-23T12:02:22+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_sb-jacket-linen-dark-hadal-blue-1_2x_0e32b15c-39b6-4ddf-8a59-e2bf30dbaa91.jpg?v=1784754142",
+          "alt": "SB jacket in linen hopsack in hadal blue",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Field trousers in linen hopsack in natural",
+      "handle": "field-trousers-in-linen-hopsack-in-natural",
+      "product_type": "Trousers",
+      "published_at": "2026-07-23T12:00:08+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_field-trousers-linen-hopsack-natural-1_2x_cf7adbe6-1030-4c56-a7ad-f03bd4b264e3.jpg?v=1784755961",
+          "alt": "Field trousers in linen hopsack in natural",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Field trousers in linen hopsack in hadal blue",
+      "handle": "field-trousers-in-linen-hopsack-in-hadal-blue",
+      "product_type": "Trousers",
+      "published_at": "2026-07-23T12:00:06+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_field-trousers-linen-hadal-blue-1_2x_93ba0761-7084-4017-82a0-3ef80b00bcd4.jpg?v=1784755325",
+          "alt": "Field trousers in linen hopsack in hadal blue",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "SB jacket in linen hopsack in natural",
+      "handle": "sb-jacket-in-linen-hopsack-in-natural",
+      "product_type": "Jacket",
+      "published_at": "2026-07-23T12:00:03+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_sb-jacket-linen-natural-hopsack-1_2x_83941834-6f0e-4912-a976-8e0bea96a77e.jpg?v=1784754995",
+          "alt": "SB jacket in linen hopsack in natural",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Work jacket in linen burlap in linseed",
+      "handle": "work-jacket-in-linen-burlap-in-linseed",
+      "product_type": "Jacket",
+      "published_at": "2026-06-15T12:00:04+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/workjacketburlaplinseed9.jpg?v=1781448325",
+          "alt": "Work jacket in linen burlap in linseed",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Work jacket in linen burlap in ash",
+      "handle": "work-jacket-in-linen-burlap-in-ash",
+      "product_type": "Jacket",
+      "published_at": "2026-06-15T12:00:02+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/workjacketburlapash.jpg?v=1781448090",
+          "alt": "Work jacket in linen burlap in ash",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Duster in hadal blue",
+      "handle": "duster-in-hadal-blue",
+      "product_type": "Coat",
+      "published_at": "2026-05-26T13:09:36+01:00",
+      "images": [],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Field trousers in dark navy",
+      "handle": "field-trousers-in-dark-navy",
+      "product_type": "Trousers",
+      "published_at": "2026-05-18T20:50:46+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_field-trousers-cotton-panama-dark-navy-1_2x_7080a3b3-505f-474c-b949-80346dc9c347.jpg?v=1779132811",
+          "alt": "Field trousers in dark navy",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "T-shirt in ring-spun cotton in porridge",
+      "handle": "ring-spun-cotton-t-shirt-in-porridge",
+      "product_type": "T-Shirt",
+      "published_at": "2026-05-18T12:08:21+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/knitted-tshirt-beige_1.jpg?v=1779095281",
+          "alt": "T-shirt in ring-spun cotton in porridge",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "T-shirt in ring-spun cotton in slate",
+      "handle": "ring-spun-cotton-t-shirt-in-slate",
+      "product_type": "T-Shirt",
+      "published_at": "2026-05-18T12:08:13+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/knitted-tshirt_1.jpg?v=1779095402",
+          "alt": "T-shirt in ring-spun cotton in slate",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Pyjama top in linen hopsack in hadal",
+      "handle": "linen-hopsack-pyjama-top-in-hadal",
+      "product_type": "Pyjama top",
+      "published_at": "2026-05-18T12:08:03+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_navy_1.jpg?v=1779094649",
+          "alt": "Pyjama top in linen hopsack in hadal",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Pyjama top in linen hopsack in malt",
+      "handle": "linen-hopsack-pyjama-top-in-malt",
+      "product_type": "Pyjama top",
+      "published_at": "2026-05-18T12:07:54+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_beige_1.jpg?v=1779094942",
+          "alt": "Pyjama top in linen hopsack in malt",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Popover in linen poplin in starling",
+      "handle": "linen-poplin-popover-in-starling",
+      "product_type": "Shirt",
+      "published_at": "2026-05-18T12:07:43+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-popover-shirt_1.jpg?v=1779094401",
+          "alt": "Popover in linen poplin in starling",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Popover in linen poplin in manila",
+      "handle": "linen-poplin-popover-in-manila",
+      "product_type": "Shirt",
+      "published_at": "2026-05-18T12:07:33+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_popover-linen-poplin-manila-1_2x_b57f0b29-d680-4c7e-9e8f-886b10b35a74.jpg?v=1779133574",
+          "alt": "Popover in linen poplin in manila",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Anorak in manila",
+      "handle": "anorak-in-manila",
+      "product_type": "Raincoat",
+      "published_at": "2026-05-02T10:14:56+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_anorak-weatherproof-cotton-tan-1_2x_f62d1b18-d85e-4f32-9036-9935a97927db.jpg?v=1777713407",
+          "alt": "Anorak in manila",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Anorak in hadal blue",
+      "handle": "anorak-in-hadal-blue",
+      "product_type": "Raincoat",
+      "published_at": "2026-05-02T10:05:06+01:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/imgi_2_anorak-weatherproof-cotton-dark-blue-1_2x_3f610601-6f25-4e8e-97ea-74d0a0c99170.jpg?v=1777712752",
+          "alt": "Anorak in hadal blue",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Granddad shirt in dove",
+      "handle": "granddad-shirt-in-dove",
+      "product_type": "Shirt",
+      "published_at": "2026-03-23T15:16:48+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/cashmere-granddad-collar-shirt_1.jpg?v=1774278990",
+          "alt": "Granddad shirt in dove",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Silk linen shirt in barley",
+      "handle": "silk-linen-shirt-in-barley",
+      "product_type": "Shirt",
+      "published_at": "2026-03-23T12:00:03+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-standard-collar-shirt_biscuit_1.jpg?v=1774265612",
+          "alt": "Silk linen shirt in barley",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Silk linen shirt in chalk",
+      "handle": "silk-linen-shirt-in-chalk",
+      "product_type": "Shirt",
+      "published_at": "2026-03-23T12:00:01+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-standard-collar-shirt_chalk_1.jpg?v=1774265124",
+          "alt": "Silk linen shirt in chalk",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Linen shirt in midnight",
+      "handle": "linen-shirt-in-midnight",
+      "product_type": "Shirt",
+      "published_at": "2026-03-09T12:03:57+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-spread-collar-shirt_dark-navy_1_025aa6eb-cc6c-4dbc-9a50-f58c9f01b453.jpg?v=1773058698",
+          "alt": "Linen shirt in midnight",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Linen shirt in tan",
+      "handle": "linen-shirt-in-tan",
+      "product_type": "Shirt",
+      "published_at": "2026-03-09T12:03:55+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/linen-spread-collar-shirt_tan_1_6eb84482-257d-4209-84c7-b9a32b105e06.jpg?v=1773005757",
+          "alt": "Linen shirt in tan",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Raincoat in sand",
+      "handle": "raincoat-in-sand",
+      "product_type": "Raincoat",
+      "published_at": "2026-03-09T12:03:54+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/raincoat_sand_1.jpg?v=1773005371",
+          "alt": "Raincoat in sand",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Raincoat in cosmos",
+      "handle": "raincoat-in-cosmos",
+      "product_type": "Raincoat",
+      "published_at": "2026-03-09T12:03:53+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/raincoat_navy_1.jpg?v=1773005150",
+          "alt": "Raincoat in cosmos",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Pyjama top in brambling",
+      "handle": "pyjama-top-in-brambling",
+      "product_type": "Pyjama top",
+      "published_at": "2026-03-09T12:03:52+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_brown_1.jpg?v=1773004653",
+          "alt": "Pyjama top in brambling",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Pyjama top in heron",
+      "handle": "pyjama-top-in-heron",
+      "product_type": "Pyjama top",
+      "published_at": "2026-03-09T12:03:50+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/pyjama-jacket_grey_1.jpg?v=1772999556",
+          "alt": "Pyjama top in heron",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Polo coat in dark navy",
+      "handle": "dark-navy-polo-coat",
+      "product_type": "Coat",
+      "published_at": "2025-12-26T12:07:32+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyDarkNavypolocoat1.jpg?v=1763330025",
+          "alt": "Polo coat in dark navy",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Trench Coat in cosmos",
+      "handle": "cosmos-trench-coat",
+      "product_type": "Coat",
+      "published_at": "2025-12-12T12:56:43+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/trench-coat-weatherproof-ripstop-cosmos-1_2x_821b03f0-9d83-4717-bc04-eae05b0141e4.jpg?v=1753825084",
+          "alt": "Trench Coat in cosmos",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Trench Coat in sand",
+      "handle": "sand-trench-coat",
+      "product_type": "Coat",
+      "published_at": "2025-12-12T12:55:48+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/trench-coat-weatherproof-ripstop-sand-1_2x_a2775709-c04c-4e67-9749-789c6db941a7.jpg?v=1754742671",
+          "alt": "Trench Coat in sand",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Crewneck jumper in charcoal",
+      "handle": "crewneck-jumper-in-charcoal",
+      "product_type": "Jumper",
+      "published_at": "2025-12-08T12:00:08+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_crewneck_charcoal_7_4d2e83bc-6161-4814-9c2f-751a91b7bb32.jpg?v=1765058735",
+          "alt": "Crewneck jumper in charcoal",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Crewneck jumper in throstle",
+      "handle": "crewneck-jumper-in-throstle",
+      "product_type": "Jumper",
+      "published_at": "2025-12-08T12:00:07+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_crewneck_throstle_1.jpg?v=1765058132",
+          "alt": "Crewneck jumper in throstle",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Watch cap in bister",
+      "handle": "watch-cap-in-bister",
+      "product_type": "Hat",
+      "published_at": "2025-12-08T12:00:06+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_watch_cap_donegal_brown_1.jpg?v=1765061505",
+          "alt": "Watch cap in bister",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Shawl cardigan in hadal",
+      "handle": "shawl-cardigan-in-hadal",
+      "product_type": "Cardigan",
+      "published_at": "2025-12-08T12:00:06+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_shawl_cardigan_cosmos_1.jpg?v=1765059760",
+          "alt": "Shawl cardigan in hadal",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Shawl cardigan in pebble",
+      "handle": "shawl-cardigan-in-pebble",
+      "product_type": "Cardigan",
+      "published_at": "2025-12-08T12:00:05+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_shawl_cardigan_pebble_1.jpg?v=1765059109",
+          "alt": "Shawl cardigan in pebble",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Watch cap in creag",
+      "handle": "watch-cap-in-creag",
+      "product_type": "Hat",
+      "published_at": "2025-12-08T12:00:04+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_watch_cap_donegal_grey_1.jpg?v=1765060962",
+          "alt": "Watch cap in creag",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Balmacaan in chough",
+      "handle": "chough-balmacaan",
+      "product_type": "Coat",
+      "published_at": "2025-12-05T11:16:13+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyBalmacaanChoughAW251.jpg?v=1763334998",
+          "alt": "Balmacaan in chough",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Dress trousers in black",
+      "handle": "dress-trousers-in-black",
+      "product_type": "Trousers",
+      "published_at": "2025-12-01T12:00:07+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinblack1_43bdd243-8b82-47a7-b6b7-4de50231b50b.jpg?v=1764592472",
+          "alt": "Dress trousers in black",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Peacoat in camel",
+      "handle": "peacoat-in-camel",
+      "product_type": "Coat",
+      "published_at": "2025-12-01T12:00:07+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_peacoat_in_camel_1.jpg?v=1764592604",
+          "alt": "Peacoat in camel",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Duffle coat in camel",
+      "handle": "duffle-coat-in-camel",
+      "product_type": "Coat",
+      "published_at": "2025-12-01T12:00:06+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydufflecoatincamel1.jpg?v=1764198910",
+          "alt": "Duffle coat in camel",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Dress trousers in lead grey",
+      "handle": "dress-trousers-in-lead-grey",
+      "product_type": "Trousers",
+      "published_at": "2025-12-01T12:00:06+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinleadgrey1.jpg?v=1764592566",
+          "alt": "Dress trousers in lead grey",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Dress trousers in middling sheep",
+      "handle": "dress-trousers-in-middling-sheep",
+      "product_type": "Trousers",
+      "published_at": "2025-12-01T12:00:06+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellydresstrousersinmiddlingsheep1.jpg?v=1764592551",
+          "alt": "Dress trousers in middling sheep",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Dress trousers in buckwheat",
+      "handle": "dress-trousers-in-black-copy",
+      "product_type": "Trousers",
+      "published_at": "2025-12-01T12:00:06+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_dress_trousers_in_buckwheat_1.jpg?v=1765549755",
+          "alt": "Dress trousers in buckwheat",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "SB jacket in middling sheep",
+      "handle": "sb-jacket-in-middling-sheep",
+      "product_type": "Jacket",
+      "published_at": "2025-12-01T12:00:05+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_SB_Jacket_in_Middling_1.jpg?v=1764592713",
+          "alt": "SB jacket in middling sheep",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "SB jacket in lead grey",
+      "handle": "sb-jacket-in-lead-grey",
+      "product_type": "Jacket",
+      "published_at": "2025-12-01T12:00:05+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellySBjacketinleadgrey1.jpg?v=1764592717",
+          "alt": "SB jacket in lead grey",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Shirt in cotton needlecord in russet",
+      "handle": "shirt-in-cotton-needlecord-in-russet",
+      "product_type": "Shirt",
+      "published_at": "2025-12-01T12:00:05+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyshirtneedlecordinrusset1.jpg?v=1764276652",
+          "alt": "Shirt in cotton needlecord in russet",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Trucker jacket in rust",
+      "handle": "trucker-jacket-in-rust",
+      "product_type": "Jacket",
+      "published_at": "2025-12-01T12:00:05+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellytruckejacketinrust1.jpg?v=1764201860",
+          "alt": "Trucker jacket in rust",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Waistcoat in middling sheep",
+      "handle": "waistcoat-in-middling-sheep",
+      "product_type": "Jacket",
+      "published_at": "2025-12-01T12:00:04+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_waistcoat_midding_sheep_1.jpg?v=1764530983",
+          "alt": "Waistcoat in middling sheep",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Engineer jacket in black",
+      "handle": "engineer-jacket-in-black",
+      "product_type": "Jacket",
+      "published_at": "2025-12-01T12:00:04+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_Engineer_jacket_in_black_1.jpg?v=1764519637",
+          "alt": "Engineer jacket in black",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Harrington jacket in manila",
+      "handle": "harrington-jacket-in-manila",
+      "product_type": "Jacket",
+      "published_at": "2025-12-01T12:00:04+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_Harrington_Jacket_in_Manila_1.jpg?v=1764284378",
+          "alt": "Harrington jacket in manila",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Waistcoat in light sheep",
+      "handle": "waistcoat-in-light-sheep",
+      "product_type": "Jacket",
+      "published_at": "2025-12-01T12:00:03+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_waistcoat_in_light_sheep_1.jpg?v=1764592645",
+          "alt": "Waistcoat in light sheep",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Ulster in middling grey",
+      "handle": "ulster-in-middling-grey",
+      "product_type": "Coat",
+      "published_at": "2025-11-28T23:30:52+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyUlsterinmiddlinggrey1.jpg?v=1764278459",
+          "alt": "Ulster in middling grey",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Ulster in dunnock",
+      "handle": "ulster-in-dunnock",
+      "product_type": "Coat",
+      "published_at": "2025-11-24T12:18:41+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyUlsterinDunnock1.jpg?v=1763833646",
+          "alt": "Ulster in dunnock",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "S.E.H Kelly E-Gift Card",
+      "handle": "gift-card",
+      "product_type": "Gift card",
+      "published_at": "2025-11-12T22:49:28+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/S.E.H_Kelly_Gift_card.png?v=1762989335",
+          "alt": "S.E.H Kelly E-Gift Card",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Peacoat in khaki",
+      "handle": "khaki-peacoat",
+      "product_type": "Coat",
+      "published_at": "2025-11-12T22:39:57+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyPeacoatKhakiAW251.jpg?v=1763334616",
+          "alt": "Peacoat in khaki",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "British Warm in charcoal",
+      "handle": "charcoal-british-warm",
+      "product_type": "Coat",
+      "published_at": "2025-11-12T22:16:44+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyBritishwarmcharcoalAW251.jpg?v=1763332855",
+          "alt": "British Warm in charcoal",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Work Jacket in acorn",
+      "handle": "acorn-work-jacket",
+      "product_type": "Jacket",
+      "published_at": "2025-11-12T20:38:05+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEHKellyWorkJacketAcorn1.jpg?v=1781449153",
+          "alt": "Work Jacket in acorn",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    },
+    {
+      "title": "Work Jacket in conker",
+      "handle": "conker-work-jacket",
+      "product_type": "Jacket",
+      "published_at": "2025-11-12T20:34:23+00:00",
+      "images": [
+        {
+          "url": "https://cdn.shopify.com/s/files/1/0935/4480/8778/files/SEH_Kelly_Work_Jacket_Conker_1.jpg?v=1781449172",
+          "alt": "Work Jacket in conker",
+          "caption": ""
+        }
+      ],
+      "source": "sehkelly.com/products.json"
+    }
+  ]
+}

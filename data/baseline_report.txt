@@ -1,0 +1,18 @@
+Thread posts parsed: 0
+Shop items: 64
+Recreated listings: 64  (baseline 551)
+Recreated images: 63  (baseline 2385)
+Category counts vs baseline:
+  Coat: 12 / 185
+  Jacket: 13 / 90
+  Shirt: 12 / 115
+  Knitwear: 0 / 63
+  Trousers: 7 / 57
+  Hat: 2 / 23
+  Accessory: 0 / 12
+  Loungewear: 0 / 6
+
+NOTE: thread text dumps strip embedded images, so thread-derived
+listings above have 0 images until an HTML/archive copy of the
+thread is parsed for image URLs. Do not treat the image total
+as complete until that step lands.
