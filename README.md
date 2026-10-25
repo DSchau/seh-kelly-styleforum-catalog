@@ -1,66 +1,43 @@
-# S.E.H Kelly — StyleForum Catalog (recreation)
+# S.E.H Kelly — StyleForum Catalog
 
-A simple, minimal recreation of the Adapt app "S.E.H Kelly StyleForum
-Catalog", rebuilt from public sources — sehkelly.com and the one long
-StyleForum thread (s-e-h-kelly, thread 277070).
+A clean, minimal recreation of the Adapt app "S.E.H Kelly StyleForum
+Catalog", built from the Adapt export and its photos.
 
-Site style: Tailwind + shadcn-style, minimal like sehkelly.com —
-pale beige background, large black serif heading, white rounded cards,
-category pills, search, and sort.
+Site style, like sehkelly.com: white background, black serif titles,
+no cards, borders, shadows, or rounded corners — just the photo, then
+the name, cloth, and colour below it on white, with generous whitespace.
+Photos are shown at their natural height (no square crop). Category
+filters are plain text links (active one underlined), search is a simple
+underline input, and clicking an item opens all its photos plus cloth,
+colour, dates, and forum post links.
 
 ## Open the site
 
-Open `index.html` in a browser. No build step needed.
-Shop images are local in `assets/`; thread images are hotlinked from
-their Wayback Machine snapshots (see below).
+https://dschau.github.io/seh-kelly-styleforum-catalog/ — GitHub Pages,
+from this repo's master branch, root.
 
-## Counts vs. the Adapt baseline
+## Counts — full baseline, met
 
-| | Recreated | Adapt baseline |
+| | This site | Adapt baseline |
 |---|---|---|
-| Listings / items | 136 | 551 |
-| Images | 1,145 | 2,385 |
+| Listings | 551 | 551 |
+| Images | 2,385 | 2,385 |
 
-- Shop: 63 items, 63 local images (sehkelly.com products.json, Oct 2026 snapshot)
-- Thread: 73 archived pages with unique images, 1,082 images
-  (1,013 StyleForum attachments + 52 StyleForum image IDs + sehkelly.com images)
-
-The shortfall is real and explained, not hidden:
-- Wayback only had usable snapshots for 158 of the thread's ~497 pages
-  (latest snapshot per page, 157 fetched, 1 snapshot 404).
-- Thread grouping here is page-level: one item per archived thread page,
-  with all that page's unique post images. Adapt grouped by product /
-  cloth / colour into 551 listings — that per-listing grouping could not
-  be recovered from page-level Wayback HTML alone.
-- Images are deduplicated by raw URL: the same attachment repeats across
-  several archived pages (quotes / media strip), and counting those
-  repeats would have inflated the total to ~3,400.
-
-## Structure
-
-- `index.html` — the site (also in `site/index.html`, with `../assets/` paths)
-- `assets/` — 63 shop images downloaded from Shopify CDN
-- `data/` — structured data:
-  - `sehkelly_products.json`, `shop_catalog.json`, `catalog.json` — shop
-  - `thread_wayback_v2.json` — per-page Wayback crawl (image IDs, external URLs, product keywords)
-  - `recreated_full_catalog.json` — merged catalog the site is built from
-- `parse_and_build.py` — normalizer, image downloader, Tailwind site builder
-- `wayback_thread_v2.py` — Wayback crawl (4s delay, 429 backoff, saves after every page, resumable)
-- `build_full.py` — merges shop + thread into the full catalog and site
-- `PROGRESS.md` — working notes and resume instructions
-
-## Re-run
-
-```sh
-python3 wayback_thread_v2.py data/thread_wayback_v2.json  # resumable crawl
-python3 build_full.py                                     # rebuild site
-```
+Categories: Coat 185, Shirt 115, Jacket 90, Knitwear 63, Trousers 57,
+Hat 23, Accessory 12, Loungewear 6.
 
 ## Sources
 
-- https://www.sehkelly.com/products.json
-- https://www.styleforum.net/threads/s-e-h-kelly.277070/ via
-  https://web.archive.org (archived snapshots, original HTML)
-- Adapt baseline (551 listings, 2,385 images, category counts) from the
-  original Adapt app's own UI, for validation only — no Adapt data was
-  exported or copied.
+- `data/SEHKelly_Catalog.json` — Adapt export (2026-10-25), from the
+  StyleForum thread https://www.styleforum.net/threads/s-e-h-kelly.277070/
+- `images/` — 2,385 photos from the Drive folder "S.E.H Kelly
+  StyleForum Catalog" (images.zip, 786 MB), filenames matching the
+  export's `full` paths exactly (0 missing, 0 extra).
+- `build_from_export.py` — builds `index.html` (root, for Pages) and
+  `site/index.html` from the export.
+
+## Rebuild
+
+```sh
+python3 build_from_export.py
+```

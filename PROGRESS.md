@@ -40,8 +40,9 @@ pale beige background, large black serif heading, white rounded cards.
   vs baseline 551 / 2,385. Thread grouping is page-level, not per-listing.
   Deduplicated by raw URL (occurrences would have been ~3,400).
 
-## Still to do
-1. Create GitHub repo (DSchau) and push scripts + data + assets + site.
+## GitHub — DONE 2026-10-24 20:06 PDT
+- Repo: https://github.com/DSchau/seh-kelly-styleforum-catalog (public, branch master)
+- Commit b82eb96: scripts + data + assets + site, pushed and verified via ls-remote.
 
 ## Known issues
 - Adapt itself exposed 0 image URLs (no img src in browser view).
